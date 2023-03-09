@@ -2,6 +2,6 @@ package armando;
 
 public class calin {
  public static void main(String[] args) {
-	 System.out.println("Hamster");
+	 System.out.println("Miau");
  }
 }
